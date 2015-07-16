@@ -6,6 +6,6 @@ public class Assignment1 {
 		strVct.add("test");
 		strVct.add("temp");
 		
-		System.out.println(strVct.contains("test"));
+		System.out.println(strVct.contains("temp"));
 	}	
 }
